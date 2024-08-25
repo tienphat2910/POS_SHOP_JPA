@@ -1,0 +1,862 @@
+2024-05-10 12:15:20,563 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-10 12:15:59,930 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: posshop_client:posshop_client:0.0.1-SNAPSHOT @ D:\temp\posshop (1)\posshop\posshop_client\pom.xml.
+2024-05-10 12:16:00,467 [Worker-23: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.4.4.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.4.4.Final
+2024-05-10 12:16:06,907 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:06,930 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 12:16:06,940 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:06,942 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 12:16:08,485 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: posshop_server:posshop_server:0.0.1-SNAPSHOT @ D:\temp\posshop (1)\posshop\posshop_server\pom.xml.
+2024-05-10 12:16:08,755 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.4.4.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.4.4.Final
+2024-05-10 12:16:08,966 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:08,969 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 12:16:08,991 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:08,994 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 12:16:10,789 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:10,791 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 12:16:10,800 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:10,802 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 12:16:30,770 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:30,773 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 12:16:30,779 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:16:30,781 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 12:17:01,078 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:17:01,079 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 12:17:01,082 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:17:01,083 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 12:57:05,307 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:57:05,310 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 12:57:05,314 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:57:05,317 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 12:57:11,210 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:57:11,212 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 12:57:11,217 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 12:57:11,219 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 13:43:42,606 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:43:42,607 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 13:43:42,613 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:43:42,614 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 13:44:22,609 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:44:22,610 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 13:44:22,614 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:44:22,615 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 13:47:09,868 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:47:09,869 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 13:47:09,875 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:47:09,877 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 13:53:31,608 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:53:31,610 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 13:53:31,614 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:53:31,615 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 13:55:18,595 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:55:18,597 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 13:55:18,601 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:55:18,602 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 13:57:07,623 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:57:07,624 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 13:57:07,628 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:57:07,629 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 13:57:46,789 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:57:46,790 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 13:57:46,794 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 13:57:46,795 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:23:14,619 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:23:14,621 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 14:23:14,625 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:23:14,626 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:28:24,109 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:28:24,111 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 14:28:24,114 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:28:24,115 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:28:29,939 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:28:29,940 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 14:28:29,943 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:28:29,944 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:29:15,145 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:29:15,146 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 14:29:15,149 [Worker-88: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:29:15,150 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:48:19,328 [Worker-94: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:48:19,331 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 14:48:19,335 [Worker-94: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:48:19,337 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:48:34,273 [Worker-94: Launching Server] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:48:34,275 [Worker-94: Launching Server] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 14:48:34,279 [Worker-94: Launching Server] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:48:34,280 [Worker-94: Launching Server] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:57:16,409 [Worker-94: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:57:16,410 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 14:57:16,412 [Worker-94: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:57:16,413 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:57:37,817 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:57:37,819 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 14:57:37,822 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:57:37,823 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 14:57:40,899 [Worker-95: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:57:40,900 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 14:57:40,903 [Worker-95: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 14:57:40,904 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:15:30,248 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:15:30,249 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:15:30,251 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:15:30,252 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:16:19,568 [Worker-98: Launching Login] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:16:19,570 [Worker-98: Launching Login] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:16:19,575 [Worker-98: Launching Login] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:16:19,577 [Worker-98: Launching Login] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:18:58,206 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:18:58,208 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:18:58,210 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:18:58,211 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:19:04,164 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:04,167 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:19:04,174 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:04,176 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:19:09,436 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:09,438 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:19:09,442 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:09,444 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:19:13,550 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:13,552 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:19:13,555 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:13,556 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:19:18,569 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:18,572 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:19:18,577 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:18,583 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:19:45,673 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:45,674 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:19:45,678 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:19:45,679 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:20:15,167 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:15,169 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:20:15,171 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:15,173 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:20:26,575 [Worker-109: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:26,577 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:20:26,581 [Worker-109: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:26,582 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:20:42,893 [Worker-109: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:42,894 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:20:42,896 [Worker-109: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:42,898 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:20:46,041 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:46,043 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:20:46,046 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:20:46,048 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:21:24,266 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:21:24,268 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:21:24,270 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:21:24,271 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:21:32,034 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:21:32,035 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:21:32,038 [Worker-108: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:21:32,040 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:22:10,227 [Worker-106: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:22:10,229 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:22:10,231 [Worker-106: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:22:10,233 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:22:26,090 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:22:26,091 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:22:26,094 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:22:26,095 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:23:15,982 [Worker-106: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:15,983 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:23:15,987 [Worker-106: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:15,988 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:23:20,714 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:20,716 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:23:20,720 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:20,721 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:23:27,337 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:27,340 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:23:27,344 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:27,345 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:23:35,786 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:35,786 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:23:35,789 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:35,790 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:23:50,667 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:50,669 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:23:50,670 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:50,672 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:23:56,391 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:56,393 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:23:56,396 [Worker-99: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:23:56,397 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:24:02,970 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:24:02,971 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:24:02,974 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:24:02,974 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:24:08,170 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:24:08,171 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:24:08,174 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:24:08,175 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:24:49,899 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:24:49,901 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:24:49,904 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:24:49,905 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:37:28,617 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:37:28,618 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:37:28,620 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:37:28,621 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:37:32,336 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:37:32,337 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:37:32,342 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:37:32,343 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:37:35,543 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:37:35,544 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:37:35,546 [Worker-107: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:37:35,547 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:38:38,592 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:38:38,593 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:38:38,596 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:38:38,597 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:44:49,711 [Worker-116: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:44:49,713 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:44:49,716 [Worker-116: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:44:49,717 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:45:14,861 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:45:14,861 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:45:14,864 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:45:14,866 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:45:21,187 [Worker-116: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:45:21,188 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:45:21,191 [Worker-116: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:45:21,192 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:45:27,172 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:45:27,173 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:45:27,175 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:45:27,177 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:49:21,869 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:49:21,870 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:49:21,874 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:49:21,876 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:50:49,601 [Worker-114: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:50:49,603 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:50:49,607 [Worker-114: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:50:49,610 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:50:53,986 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:50:53,987 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:50:53,992 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:50:53,993 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:50:57,516 [Worker-117: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:50:57,517 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:50:57,520 [Worker-117: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:50:57,522 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:51:46,205 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:51:46,207 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:51:46,210 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:51:46,212 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:55:32,390 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:55:32,391 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:55:32,393 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:55:32,394 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:55:50,525 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:55:50,527 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:55:50,530 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:55:50,531 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:55:51,644 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:55:51,645 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:55:51,647 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:55:51,650 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:56:02,946 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:02,947 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:56:02,949 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:02,950 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:56:19,266 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:19,267 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:56:19,269 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:19,270 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:56:20,391 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:20,392 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:56:20,394 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:20,394 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:56:27,068 [Worker-120: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:27,069 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:56:27,070 [Worker-120: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:27,071 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:56:49,329 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:49,330 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:56:49,331 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:49,332 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:56:50,477 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:50,478 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:56:50,481 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:50,482 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:56:58,164 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:58,164 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:56:58,165 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:56:58,167 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:57:08,485 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:08,487 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:57:08,489 [Worker-121: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:08,490 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:57:21,128 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:21,129 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:57:21,132 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:21,133 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:57:33,535 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:33,536 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:57:33,540 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:33,541 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:57:41,292 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:41,293 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:57:41,294 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:41,295 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:57:53,370 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:53,371 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:57:53,374 [Worker-118: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:53,374 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:57:59,301 [Worker-120: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:59,302 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:57:59,305 [Worker-120: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:57:59,307 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:58:27,850 [Worker-120: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:58:27,851 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:58:27,851 [Worker-120: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:58:27,851 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 15:58:28,967 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:58:28,968 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 15:58:28,970 [Worker-123: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 15:58:28,971 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:14:09,856 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:14:09,858 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:14:09,861 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:14:09,863 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:17:13,521 [Worker-125: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:17:13,524 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:17:13,525 [Worker-125: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:17:13,527 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:22:24,111 [Worker-127: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:22:24,112 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:22:24,114 [Worker-127: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:22:24,115 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:23:17,590 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:23:17,590 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:23:17,593 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:23:17,593 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:25:04,549 [Worker-126: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:25:04,549 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:25:04,551 [Worker-126: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:25:04,551 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:25:09,132 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:25:09,133 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:25:09,134 [Worker-122: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:25:09,135 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:25:25,756 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:25:25,757 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:25:25,759 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:25:25,760 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:30:28,319 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:30:28,320 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:30:28,322 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:30:28,323 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:30:32,445 [Worker-126: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:30:32,445 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:30:32,447 [Worker-126: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:30:32,447 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:31:00,723 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:31:00,725 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:31:00,726 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:31:00,727 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:31:35,359 [Worker-126: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:31:35,360 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:31:35,362 [Worker-126: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:31:35,363 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:32:11,267 [Worker-130: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:32:11,267 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:32:11,268 [Worker-130: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:32:11,269 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:32:27,564 [Worker-125: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:32:27,566 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:32:27,567 [Worker-125: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:32:27,568 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:39:33,164 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:39:33,166 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:39:33,168 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:39:33,170 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:43:02,195 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:43:02,196 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:43:02,197 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:43:02,198 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:43:04,443 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:43:04,444 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:43:04,445 [Worker-129: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:43:04,446 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:43:12,433 [Worker-133: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:43:12,435 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:43:12,436 [Worker-133: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:43:12,436 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:44:46,477 [Worker-133: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:44:46,478 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:44:46,480 [Worker-133: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:44:46,480 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:50:34,509 [Worker-140: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:50:34,511 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:50:34,514 [Worker-140: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:50:34,516 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:53:23,362 [Worker-134: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:53:23,364 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:53:23,368 [Worker-134: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:53:23,370 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:53:30,052 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:53:30,053 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:53:30,056 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:53:30,057 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:54:29,606 [Worker-140: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:54:29,608 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:54:29,611 [Worker-140: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:54:29,612 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:55:14,417 [Worker-141: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:55:14,419 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:55:14,421 [Worker-141: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:55:14,423 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:55:43,497 [Worker-141: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:55:43,498 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:55:43,500 [Worker-141: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:55:43,501 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:58:07,858 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:07,859 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:58:07,862 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:07,863 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:58:22,783 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:22,784 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:58:22,786 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:22,787 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:58:26,856 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:26,858 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:58:26,860 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:26,862 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:58:48,290 [Worker-144: Launching Client] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:48,290 [Worker-144: Launching Client] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:58:48,294 [Worker-144: Launching Client] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:58:48,296 [Worker-144: Launching Client] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:59:00,629 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:59:00,659 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:59:00,662 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:59:00,663 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:59:04,525 [Worker-143: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:59:04,526 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:59:04,528 [Worker-143: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:59:04,529 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 16:59:53,408 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:59:53,409 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 16:59:53,412 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 16:59:53,414 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:00:04,684 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:00:04,686 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:00:04,688 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:00:04,689 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:00:08,330 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:00:08,331 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:00:08,332 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:00:08,334 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:01:54,147 [Worker-139: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:01:54,148 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:01:54,150 [Worker-139: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:01:54,151 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:01:57,230 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:01:57,231 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:01:57,233 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:01:57,234 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:01:59,993 [Worker-145: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:01:59,994 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:01:59,995 [Worker-145: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:01:59,997 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:02:28,049 [Worker-145: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:02:28,050 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:02:28,052 [Worker-145: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:02:28,053 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:02:38,232 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:02:38,233 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:02:38,234 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:02:38,236 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:02:47,451 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:02:47,452 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:02:47,454 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:02:47,455 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:05:25,381 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:05:25,382 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:05:25,385 [Worker-144: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:05:25,386 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:05:27,884 [Worker-145: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:05:27,885 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:05:27,887 [Worker-145: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:05:27,889 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:06:04,099 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:06:04,101 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:06:04,102 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:06:04,103 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:06:20,197 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:06:20,198 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:06:20,200 [Worker-138: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:06:20,201 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 17:06:55,334 [Worker-143: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:06:55,336 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 17:06:55,338 [Worker-143: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 17:06:55,339 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 18:18:31,803 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-10 18:20:35,386 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.4.4.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.4.4.Final
+2024-05-10 18:20:36,046 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 18:20:36,061 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 18:20:36,068 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 18:20:36,069 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 21:56:16,288 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Client references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration Client references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,313 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Client references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration Client references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,322 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Client references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration Client references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,325 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Login references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration Login references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,327 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Login references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration Login references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,333 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Login references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration Login references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,335 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration uiMain references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration uiMain references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,337 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration uiMain references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration uiMain references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,343 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration uiMain references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration uiMain references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,347 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration uiMain2 references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration uiMain2 references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,348 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration uiMain2 references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration uiMain2 references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:16,354 [Worker-45: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration uiMain2 references non-existing project posshop_client.
+org.eclipse.core.runtime.CoreException: Launch configuration uiMain2 references non-existing project posshop_client.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1862)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1739)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1038)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-05-10 21:56:19,991 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: posshop_client:posshop_client:0.0.1-SNAPSHOT @ D:\temp\posshop (1)\posshop\posshop_client\pom.xml.
+2024-05-10 21:56:20,407 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.4.4.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.4.4.Final
+2024-05-10 21:56:21,483 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 21:56:21,485 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 21:56:21,493 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 21:56:21,495 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 21:56:24,035 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 21:56:24,037 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 21:56:24,043 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 21:56:24,045 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:06:43,346 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:43,352 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:06:43,358 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:43,362 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:06:44,823 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:44,824 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:06:44,827 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:44,830 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:06:49,404 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:49,407 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:06:49,413 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:49,415 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:06:59,797 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:59,799 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:06:59,805 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:06:59,807 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:07:30,693 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:07:30,695 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:07:30,698 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:07:30,699 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:23:59,181 [Worker-56: Launching uiMain2 (1)] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:23:59,182 [Worker-56: Launching uiMain2 (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:23:59,186 [Worker-56: Launching uiMain2 (1)] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:23:59,187 [Worker-56: Launching uiMain2 (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:24:53,769 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:24:53,770 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:24:53,774 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:24:53,775 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:26:35,468 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:26:35,469 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:26:35,475 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:26:35,476 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:47:44,147 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.4.4.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.4.4.Final
+2024-05-10 22:47:44,231 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:47:44,233 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 22:47:44,246 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:47:44,247 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:47:49,066 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:47:49,067 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 22:47:49,072 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:47:49,073 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:49:03,997 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:49:03,998 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:49:04,005 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:49:04,006 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:53:57,175 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:53:57,176 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:53:57,180 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:53:57,181 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:54:53,963 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:54:53,965 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:54:53,968 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:54:53,985 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 22:55:09,449 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:55:09,450 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 22:55:09,455 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 22:55:09,457 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 23:06:10,782 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:06:10,784 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 23:06:10,788 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:06:10,790 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 23:06:19,363 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:06:19,366 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-10 23:06:19,369 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:06:19,370 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 23:09:30,087 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:09:30,088 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 23:09:30,095 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:09:30,097 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-05-10 23:11:00,684 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:11:00,687 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-10 23:11:00,691 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-10 23:11:00,692 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes

@@ -1,0 +1,16 @@
+package gui;
+
+public class localServer {
+	private static final String localhost = "26.52.102.222";
+
+	public static String getLocalhost() {
+		return localhost;
+	}
+
+	@Override
+	public String toString() {
+		return "localServer [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+				+ super.toString() + "]";
+	}
+	
+}

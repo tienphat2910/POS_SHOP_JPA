@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+D:\temp\posshop (1)\posshop\.metadata\.plugins\org.eclipse.jdt.core
+2852406799.index
+953148291.index
+1507667127.index
+1844129259.index
+1510675576.index
+482610130.index
+1773022765.index
+706615317.index
+2198211572.index
+1426220642.index
+687235417.index
+984420651.index
+254808535.index
+701815576.index
+3486845341.index
+3956713252.index
+2558744436.index
+4081458866.index
+1865797976.index

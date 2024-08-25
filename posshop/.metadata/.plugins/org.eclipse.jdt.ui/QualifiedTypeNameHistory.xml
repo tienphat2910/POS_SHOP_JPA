@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="gui.localServer"/>
+    <fullyQualifiedTypeName name="gui.QuanLyBanHang"/>
+    <fullyQualifiedTypeName name="gui.uiSanPham"/>
+    <fullyQualifiedTypeName name="gui.QuanLyHoaDon"/>
+    <fullyQualifiedTypeName name="gui.QuanLyKhuyenMai"/>
+    <fullyQualifiedTypeName name="gui.QuanLyNhanVien"/>
+    <fullyQualifiedTypeName name="gui.QuanLyKhachHang"/>
+    <fullyQualifiedTypeName name="gui.QuanLyNhaCungCap"/>
+    <fullyQualifiedTypeName name="dao.NhanVienDAO"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="dao.TaiKhoanDAO"/>
+    <fullyQualifiedTypeName name="entities.TaiKhoan"/>
+</qualifiedTypeNameHistroy>

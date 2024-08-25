@@ -1,0 +1,100 @@
+package app;
+
+import java.rmi.AlreadyBoundException;
+import java.rmi.NotBoundException;
+import java.rmi.RemoteException;
+import java.rmi.registry.LocateRegistry;
+import java.rmi.registry.Registry;
+
+import dao.ChatLieuDAO;
+import dao.ChiTietHoaDonDAO;
+import dao.HoaDonDAO;
+import dao.KhachHangDAO;
+import dao.KhuyenMaiDAO;
+import dao.KichThuocDAO;
+import dao.KieuDangDAO;
+import dao.MauSacDAO;
+import dao.NhaCungCapDAO;
+import dao.NhanVienDAO;
+import dao.PhanLoaiDAO;
+import dao.SanPhamDAO;
+import dao.TaiKhoanDAO;
+import dao.XuatXuDAO;
+import entities.ChiTietHoaDon;
+import jakarta.persistence.EntityManager;
+import services.ChatLieuService;
+import services.ChiTietHoaDonService;
+import services.EntityManagerFactoryUtil;
+import services.HoaDonService;
+import services.KhachHangService;
+import services.KhuyenMaiService;
+import services.KichThuocService;
+import services.KieuDangService;
+import services.MauSacService;
+import services.NhaCungCapService;
+import services.NhanVienService;
+import services.PhanLoaiService;
+import services.SanPhamService;
+import services.TaiKhoanService;
+import services.XuatXuService;
+
+public class Server {
+    @SuppressWarnings("static-access")
+	public static void main(String[] args) throws RemoteException {
+        // Tạo một registry
+    	Registry registry = LocateRegistry.createRegistry(1232);
+    	
+    	while (true) {
+            try {
+
+                // Tạo EntityManager từ EntityManagerFactoryUtil
+                EntityManagerFactoryUtil entityManagerFactoryUtil = new EntityManagerFactoryUtil();
+                // Tạo EntityManager
+                EntityManager entityManager = entityManagerFactoryUtil.createEntityManager();
+
+             // Tạo các dịch vụ
+                ChatLieuDAO chatLieuDAO = new ChatLieuService(entityManager);
+                SanPhamDAO sanPhamDAO = new SanPhamService(entityManager);
+                HoaDonDAO hoaDonDAO = new HoaDonService(entityManager);
+                ChiTietHoaDonDAO chiTietHoaDonDAO = new ChiTietHoaDonService(entityManager);
+                KhachHangDAO khachHangDAO = new KhachHangService(entityManager);
+                NhanVienDAO nhanVienDAO = new NhanVienService(entityManager);
+                // Đăng ký các dịch vụ vào registry
+                registry.rebind("ChatLieuDAO", chatLieuDAO);
+                registry.rebind("SanPhamDAO", sanPhamDAO);
+                registry.rebind("HoaDonDAO", hoaDonDAO);
+                registry.rebind("ChiTietHoaDonDAO", chiTietHoaDonDAO);
+                registry.rebind("KhachHangDAO", khachHangDAO);
+                registry.rebind("NhanVienDAO", nhanVienDAO);
+
+                // Đăng ký các dịch vụ khác
+                MauSacDAO mauSacDAO = new MauSacService(entityManager);
+                KichThuocDAO kichThuocDAO = new KichThuocService(entityManager);
+                KieuDangDAO kieuDangDAO = new KieuDangService(entityManager);
+                PhanLoaiDAO phanLoaiDAO = new PhanLoaiService(entityManager);
+                XuatXuDAO xuatXuDAO = new XuatXuService(entityManager);
+                NhaCungCapDAO nhaCungCapDAO = new NhaCungCapService(entityManager);
+                TaiKhoanDAO taiKhoanDAO = new TaiKhoanService(entityManager);
+                KhuyenMaiDAO khuyenMaiDAO = new KhuyenMaiService(entityManager);
+
+                registry.rebind("MauSacDAO", mauSacDAO);
+                registry.rebind("KichThuocDAO", kichThuocDAO);
+                registry.rebind("KieuDangDAO", kieuDangDAO);
+                registry.rebind("PhanLoaiDAO", phanLoaiDAO);
+                registry.rebind("XuatXuDAO", xuatXuDAO);
+                registry.rebind("NhaCungCapDAO", nhaCungCapDAO);
+                registry.rebind("TaiKhoanDAO", taiKhoanDAO);
+                registry.rebind("KhuyenMaiDAO", khuyenMaiDAO);
+                // Thông báo server đã sẵn sàng
+//                System.out.println("RMI Server ready");
+
+                // Chờ một khoảng thời gian trước khi tiếp tục vòng lặp
+                Thread.sleep(); // 0,001 giay
+
+            } catch (RemoteException | InterruptedException e) {
+                // Log lỗi và tiếp tục vòng lặp
+                e.printStackTrace();
+            }
+        }
+    }
+}

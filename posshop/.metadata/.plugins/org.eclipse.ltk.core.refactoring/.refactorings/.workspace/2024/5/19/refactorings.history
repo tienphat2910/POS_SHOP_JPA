@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;posshop_client&apos; to &apos;posshop_client_live&apos;" description="Rename resource &apos;posshop_client&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/posshop_client" name="posshop_client_live" stamp="1715352975099" updateReferences="true"/>
+</session>

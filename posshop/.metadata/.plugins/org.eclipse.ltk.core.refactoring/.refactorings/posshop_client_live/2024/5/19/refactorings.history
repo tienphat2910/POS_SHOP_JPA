@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;posshop_client&apos;&#x0D;&#x0A;- Original project: &apos;posshop_client&apos;&#x0D;&#x0A;- Original element: &apos;gui.localServer.java&apos;" description="Delete element" element1="/src\/main\/java=/org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY=/D:\/temp\/posshop \(1)\/posshop\/posshop_client\/lib\/opencv\/x64=/=/optional=/true=/=/maven.pomderived=/true=/&lt;gui{localServer.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1715329345681" subPackages="false" version="1.0"/>
+</session>
